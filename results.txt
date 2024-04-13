@@ -1,1 +1,35 @@
-
+Identify the top 5 nodes with the highest outdegree and determine the count of outgoing edges for each node
+id	outdegree
+2481	2508
+4675	2210
+394	2199
+377	1733
+225	1697
+Identify the top 5 nodes with the highest indegree and determine the count of incoming edges for each node
+id	inDegree
+2481	2540
+394	2327
+4675	2240
+377	1741
+225	1717
+Compute the PageRank for each node and display the top 5 nodes with the highest PageRank values. You may define appropriate parameters as needed
+ID	Pagerank
+2481	178.82752266789927
+394	162.66072354013525
+34	144.86256785958037
+377	140.76081055443635
+4675	130.14636611670244
+Execute the connected components algorithm and identify the top 5 components with the largest number of nodes
+components	count
+0		55374
+32854		11
+61881		6
+14502		6
+28070		5
+Perform the triangle count algorithm on each vertex and display the top 5 vertices with the highest triangle count. In case of ties, randomly select the top 5 vertices.
+triangle_count	Node_Id
+14888		46
+11742		192
+10942		1712
+10820		394
+10534		337
