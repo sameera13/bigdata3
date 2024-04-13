@@ -21,10 +21,10 @@ ID	Pagerank
 4675	130.14636611670244
 Execute the connected components algorithm and identify the top 5 components with the largest number of nodes
 components	count
-0		55374
-32854		11
-61881		6
-14502		6
+0		55572
+42235		6
+63662		6
+62583		6
 28070		5
 Perform the triangle count algorithm on each vertex and display the top 5 vertices with the highest triangle count. In case of ties, randomly select the top 5 vertices.
 triangle_count	Node_Id
